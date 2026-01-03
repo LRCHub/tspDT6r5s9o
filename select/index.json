@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Re:Re: (2016 Version)",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-01-03T04:31:23.090742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Re:Re:",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_Re_Re_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Re: Re:",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Re__Re_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Re:Re:",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Re_Re_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Re:Re:",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/04_Re_Re_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Re:Re: (2016 Rerecorded)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_Re_Re__(2016_Rerecorded)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Re:Re: (2016)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_Re_Re__(2016)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Re:Re:",
+      "artist": "NateWantsToBattle",
+      "has_synced": false,
+      "path": "select/07_Re_Re_NateWantsToBattle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Re:Re: (2016 Version)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_Re_Re__(2016_Version)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Re:Re: (2006 横浜アリーナ)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/09_Re_Re__(2006_横浜アリーナ)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Re:Re: (2006 Yokohama Arena) Re:Re: [2006 横浜アリーナ]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/10_Re_Re__(2006_Yokohama_Arena)_Re_Re__[2006_横浜アリーナ]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Re:Re:",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/11_Re_Re_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Go (Re-Re-Mix)",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/12_Don't_Go_(Re-Re-Mix)_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nostalgia Re Re Hello",
+      "artist": "7!! (Seven Oops)",
+      "has_synced": false,
+      "path": "select/13_Nostalgia_Re_Re_Hello_7!!_(Seven_Oops).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nostalgia Re Re Hello",
+      "artist": "7!!",
+      "has_synced": false,
+      "path": "select/14_Nostalgia_Re_Re_Hello_7!!.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Re Re Hello Owaresouninainatsu",
+      "artist": "7!! (Seven Oops)",
+      "has_synced": false,
+      "path": "select/15_Re_Re_Hello_Owaresouninainatsu_7!!_(Seven_Oops).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Re Re Hello Owaresouninainatsu",
+      "artist": "7!!",
+      "has_synced": false,
+      "path": "select/16_Re_Re_Hello_Owaresouninainatsu_7!!.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Re;Re;Refrain / RainyBlueBell",
+      "artist": "FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/17_Re;Re;Refrain___RainyBlueBell_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Nostalgia Re Re Hello",
+      "artist": "seven oops",
+      "has_synced": true,
+      "path": "select/18_Nostalgia_Re_Re_Hello_seven_oops.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Re:Re:",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_Re_Re_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
